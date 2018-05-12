@@ -1,0 +1,30 @@
+_repo: Lord-Palmerston--a-opini-o-e-os-factosum-brado-a-pr--da-verdade_25697
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Testa, Carlos
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '31476'
+    url: http://www.gutenberg.org/2009/agents/31476
+description: ''
+gutenberg_issued: '2008-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25697'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- Foreign relations -- Great Britain'
+- !lcsh 'Great Britain -- Foreign relations -- Portugal'
+- !lcc 'DP'
+- !lcsh 'Portugal -- Colonies -- Africa'
+title: 'Lord Palmerston: a opinião e os factos
+
+  um brado a pró da verdade'
+url: http://www.gutenberg.org/ebooks/25697
